@@ -1,0 +1,6 @@
+[submodule "PixelBreaker_backend"]
+	path = PixelBreaker_backend
+	url = https://github.com/SaeedAbdelWahab/PixelBreaker_backend.git
+[submodule "PixelBreaker_frontend"]
+	path = PixelBreaker_frontend
+	url = https://github.com/SaeedAbdelWahab/PixelBreaker_frontend.git
